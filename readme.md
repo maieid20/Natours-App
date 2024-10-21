@@ -41,15 +41,6 @@ Follow these steps to set up your local environment for the Natours app:
 ```plaintext
 git clone https://github.com/maieid20/natours.git
 cd natours
-
-<p><strong>•</strong> Reset your password.</p>
-<p><strong>•</strong> Update your password and profile information.</p>
-<p><strong>•</strong> Stripe payment integration for booking.</p>
-<p><strong>•</strong> Booking confirmation and invoice sent via email.</p>
-<p><strong>•</strong> Upload profile pictures.</p>
-<p><strong>•</strong> Error handling and logging.</p>
-<p><h2>Preparing Your Local Environment
-</h2></p>
 <p>Use the following steps to establish your local setup for the Natours app:
 </p>
 
@@ -77,6 +68,9 @@ npm start
 
 
 
+
+2. **Install Dependencies**  
+Install the necessary dependencies:
 
 
 
