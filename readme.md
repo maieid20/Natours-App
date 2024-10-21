@@ -5,21 +5,21 @@
 </div>
     <p><h1>Technologies:</h1></p>
     <p>
-        Node.js<br>
-        Express.js<br>
-        MongoDB<br>
-        Mongoose<br>
-        HTML, CSS<br>
-        Pug (Template Engine)<br>
-        Mailtrap<br>
-        Mapbox<br>
-        Stripe<br>
-        JSON Web Token<br>
+      Node.js<br>
+      Express.js<br>
+      MongoDB<br>
+      Mongoose<br>
+      HTML, CSS<br>
+     Pug (Template Engine)<br>
+     Mailtrap<br>
+    Mapbox<br>
+   Stripe<br>
+ JSON Web Token<br>
         bcrypt<br>
-        Nodemailer<br>
-        Gmail
-    </p>
-</div>
+ Nodemailer<br>
+ Gmail
+</p>
+
 
 
 
