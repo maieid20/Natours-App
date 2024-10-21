@@ -3,7 +3,7 @@
     <h1>Natours App</h1>
     <p><h3> A tour booking site built on top of NodeJS </h3></p>
 </div>
-    <p><h1>Technologies:</h1></p>
+    <p><h2>Technologies:</h2></p>
     <p>
       Node.js<br>
       Express.js<br>
