@@ -43,7 +43,7 @@ git clone https://github.com/maieid20/natours.git
 cd natours
 ````
 
-<h2>Install Dependencies</h2>
+***Install Dependencies***
 ```plaintext
 npm install
 ``````
