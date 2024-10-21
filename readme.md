@@ -64,7 +64,7 @@ Create a .env file in the root directory and add the necessary environment varia
 Start the Application
 ----------------------
 npm start```
-
+``````
 
 
 
