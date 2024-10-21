@@ -5,23 +5,20 @@
 </div>
 <p><h2>Build With</h2></p>
 <p>
-    • <strong>Node.js</strong><br>
-    • <strong>Express.js</strong><br>
-    • <strong>MongoDB</strong><br>
-    • <strong>Mongoose</strong><br>
-    • <strong>HTML, CSS</strong><br>
-    • <strong>Pug</strong><br>
-    • <strong>Mailtrap</strong><br>
-    • <strong>Gmail</strong><br>
-    • <strong>Mapbox</strong><br>
-    • <strong>Stripe</strong><br>
-    • <strong>JSON Web Token</strong><br>
-    • <strong>bcrypt</strong><br>
-    • <strong>Nodemailer</strong><br>
+    <strong>•</strong> Node.js<br>
+    <strong>•</strong> Express.js<br>
+    <strong>•</strong> MongoDB<br>
+    <strong>•</strong> Mongoose<br>
+    <strong>•</strong> HTML, CSS<br>
+    <strong>•</strong> Pug<br>
+    <strong>•</strong> Mailtrap<br>
+    <strong>•</strong> Gmail<br>
+    <strong>•</strong> Mapbox<br>
+    <strong>•</strong> Stripe<br>
+    <strong>•</strong> JSON Web Token<br>
+    <strong>•</strong> bcrypt<br>
+    <strong>•</strong> Nodemailer<br>
 </p>
-
-
-
 
 
 
