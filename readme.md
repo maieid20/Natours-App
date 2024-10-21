@@ -18,27 +18,26 @@
     <strong>•</strong> JSON Web Token<br>
     <strong>•</strong> bcrypt<br>
     <strong>•</strong> Nodemailer<br>
-</p>
-<p><h2>Features </h2></p>
-<p>User registration and login with JWT authentication.</p>
-<p>Password reset with email verification.</p>
-<p>User roles and permissions management.</p>
-<p>Search for tours with filtering and sorting options.</p>
-<p>Create, update, and delete tours.</p>
-<p>Upload and process tour images.</p>
-<p>Rate and review tours.</p>
-<p>Browse and book a variety of nature tours.</p>
-<p>Signup and create your own account.</p>
-<p>Login to your account with session persistence via cookies.</p>
-<p>Detailed information about each tour, including  difficulty, and price.</p>
-<p>Responsive maps that provide an optimal viewing experience across all devices, making it easy to explore tour locations.</p>
-<p>View tour reviews and ratings by fellow travelers.</p>
-<p>Reset your password.</p>
-<p>Update your password and profile information.</p>
-<p>Stripe payment integration for booking.</p>
-<p>Booking confirmation and invoice sent via email.</p>
-<p>Upload profile pictures.</p>
-<p>Error handling and logging.</p>
+<p><h2>Features</h2></p>
+<p><strong>•</strong> User registration and login with JWT authentication.</p>
+<p><strong>•</strong> Password reset with email verification.</p>
+<p><strong>•</strong> User roles and permissions management.</p>
+<p><strong>•</strong> Search for tours with filtering and sorting options.</p>
+<p><strong>•</strong> Create, update, and delete tours.</p>
+<p><strong>•</strong> Upload and process tour images.</p>
+<p><strong>•</strong> Rate and review tours.</p>
+<p><strong>•</strong> Browse and book a variety of nature tours.</p>
+<p><strong>•</strong> Signup and create your own account.</p>
+<p><strong>•</strong> Login to your account with session persistence via cookies.</p>
+<p><strong>•</strong> Detailed information about each tour, including difficulty and price.</p>
+<p><strong>•</strong> Responsive maps that provide an optimal viewing experience across all devices, making it easy to explore tour locations.</p>
+<p><strong>•</strong> View tour reviews and ratings by fellow travelers.</p>
+<p><strong>•</strong> Reset your password.</p>
+<p><strong>•</strong> Update your password and profile information.</p>
+<p><strong>•</strong> Stripe payment integration for booking.</p>
+<p><strong>•</strong> Booking confirmation and invoice sent via email.</p>
+<p><strong>•</strong> Upload profile pictures.</p>
+<p><strong>•</strong> Error handling and logging.</p>
 
 
 
