@@ -37,6 +37,8 @@
 
 Follow these steps to set up your local environment for the Natours app:
 
+
+
 **Clone the Repository**
 ```plaintext
 git clone https://github.com/maieid20/natours.git
@@ -61,7 +63,7 @@ Create a .env file in the root directory and add the necessary environment varia
 
 Start the Application
 ----------------------
-npm start
+npm start```
 
 
 
