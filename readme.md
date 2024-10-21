@@ -42,9 +42,12 @@
 </h2></p>
 <p>Use the following steps to establish your local setup for the Natours app:
 </p>
-```bash
-git clone https://github.com/maieid20/natours.git
-cd natours
+> 
+> ```bash
+> git clone https://github.com/maieid20/natours.git
+> cd natours
+> ```
+>
 
 
 
