@@ -77,6 +77,17 @@ Access the App
 Open your web browser and go to http://localhost:3000 to view the Natours app.
 
 
+## Setting Up Your Local Environment
+
+Follow these steps to set up your local environment for the Natours app:
+
+**Clone the Repository**
+```plaintext
+git clone https://github.com/maieid20/natours.git
+cd natours
+
+
+
 
 
 
