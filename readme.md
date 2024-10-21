@@ -46,13 +46,14 @@ cd natours
 <h2>Install Dependencies</h2>
 ```plaintext
 npm install
+``````
 
 ***Configure Environment Variables***
 ```plaintext
-***Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.***
+Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.
 ``````
-```plaintext
 ***Start the Application***
+```plaintext
 npm start
 ``````
 
