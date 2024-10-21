@@ -37,11 +37,10 @@
 
 Follow these steps to set up your local environment for the Natours app:
 
-<h2>Clone the Repository</h2>
+***Clone the Repository***
 ```plaintext
 git clone https://github.com/maieid20/natours.git
 cd natours
-
 ````
 
 <h2>Install Dependencies</h2>
