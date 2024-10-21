@@ -45,9 +45,9 @@
 
 Follow these steps to set up your local environment for the Natours app:
 
-```plaintext
 Clone the Repository
 ---------------------
+```plaintext
 git clone https://github.com/maieid20/natours.git
 cd natours
 
