@@ -30,15 +30,14 @@
 <p>Browse and book a variety of nature tours.</p>
 <p>Signup and create your own account.</p>
 <p>Login to your account with session persistence via cookies.</p>
-<p>Detailed information about each tour, including duration, difficulty, and price.</p>
-<p>Interactive maps to visualize tour destinations.</p>
+<p>Detailed information about each tour, including  difficulty, and price.</p>
+<p>Responsive maps that provide an optimal viewing experience across all devices, making it easy to explore tour locations.</p>
 <p>View tour reviews and ratings by fellow travelers.</p>
 <p>Reset your password.</p>
 <p>Update your password and profile information.</p>
 <p>Stripe payment integration for booking.</p>
 <p>Booking confirmation and invoice sent via email.</p>
 <p>Upload profile pictures.</p>
-<p>Responsive design for mobile, laptop, and PC.</p>
 <p>Error handling and logging.</p>
 
 
