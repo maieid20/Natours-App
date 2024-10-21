@@ -3,7 +3,6 @@
     <h2>Natours App</h2>
 </div>
 
-      An awesome tour booking site built on top of NodeJS.
 
 
 
