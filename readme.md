@@ -74,15 +74,6 @@ npm start
 
 
 
-## Setting Up Your Local Environment
-
-Follow these steps to set up your local environment for the Natours app:
-
-1. **Clone the Repository**  
-   Clone this repository to your local machine:
-   ```plaintext
-   git clone https://github.com/maieid20/natours.git
-   cd natours
 
 
 
