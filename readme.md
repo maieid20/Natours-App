@@ -37,33 +37,24 @@
 
 Follow these steps to set up your local environment for the Natours app:
 
-
-
-**Clone the Repository**
+<h2>Clone the Repository</h2>
 ```plaintext
 git clone https://github.com/maieid20/natours.git
 cd natours
-<p>Use the following steps to establish your local setup for the Natours app:
-</p>
+``
+````
 
-Follow these steps to set up your local environment for the Natours app:
+<h2>Install Dependencies</h2>
 ```plaintext
-Clone the Repository
----------------------
-git clone https://github.com/maieid20/natours.git
-cd natours
-
-Install Dependencies
----------------------
 npm install
 
-Configure Environment Variables
--------------------------------
-Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.
-
-Start the Application
-----------------------
-npm start```
+<h2>Configure Environment Variables</h2>
+```plaintext
+<h2>Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.</h2>
+``````
+```plaintext
+<h2>Start the Application</h2>
+npm start
 ``````
 
 
@@ -71,8 +62,7 @@ npm start```
 
 
 
-2. **Install Dependencies**  
-Install the necessary dependencies:
+
 
 
 
