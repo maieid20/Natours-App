@@ -47,12 +47,12 @@ cd natours
 ```plaintext
 npm install
 
-<h2>Configure Environment Variables</h2>
+***Configure Environment Variables***
 ```plaintext
-<h2>Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.</h2>
+***Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.***
 ``````
 ```plaintext
-<h2>Start the Application</h2>
+***Start the Application***
 npm start
 ``````
 
