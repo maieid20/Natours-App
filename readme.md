@@ -19,6 +19,29 @@
     <strong>•</strong> bcrypt<br>
     <strong>•</strong> Nodemailer<br>
 </p>
+<p><h2>Features </h2></p>
+<p>User registration and login with JWT authentication.</p>
+<p>Password reset with email verification.</p>
+<p>User roles and permissions management.</p>
+<p>Search for tours with filtering and sorting options.</p>
+<p>Create, update, and delete tours.</p>
+<p>Upload and process tour images.</p>
+<p>Rate and review tours.</p>
+<p>Browse and book a variety of nature tours.</p>
+<p>Signup and create your own account.</p>
+<p>Login to your account with session persistence via cookies.</p>
+<p>Detailed information about each tour, including duration, difficulty, and price.</p>
+<p>Interactive maps to visualize tour destinations.</p>
+<p>View tour reviews and ratings by fellow travelers.</p>
+<p>Reset your password.</p>
+<p>Update your password and profile information.</p>
+<p>Stripe payment integration for booking.</p>
+<p>Booking confirmation and invoice sent via email.</p>
+<p>Upload profile pictures.</p>
+<p>Responsive design for mobile, laptop, and PC.</p>
+<p>Error handling and logging.</p>
+
+
 
 
 
