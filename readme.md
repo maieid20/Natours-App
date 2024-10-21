@@ -3,22 +3,23 @@
     <h1>Natours App</h1>
     <p><h3> A tour booking site built on top of NodeJS </h3></p>
 </div>
-    <p><h2>Build With</h2></p>
-   <p>
-        Node.js<br>
-        Express.js<br>
-        MongoDB<br>
-        Mongoose<br>
-        HTML, CSS<br>
-        Pug<br>
-        Mailtrap<br>
-        Gmail<br>
-        Mapbox<br>
-        Stripe<br>
-        JSON Web Token<br>
-        bcrypt<br>
-        Nodemailer<br>
-    </p>
+<p><h2>Build With</h2></p>
+<p>
+    • <strong>Node.js</strong><br>
+    • <strong>Express.js</strong><br>
+    • <strong>MongoDB</strong><br>
+    • <strong>Mongoose</strong><br>
+    • <strong>HTML, CSS</strong><br>
+    • <strong>Pug</strong><br>
+    • <strong>Mailtrap</strong><br>
+    • <strong>Gmail</strong><br>
+    • <strong>Mapbox</strong><br>
+    • <strong>Stripe</strong><br>
+    • <strong>JSON Web Token</strong><br>
+    • <strong>bcrypt</strong><br>
+    • <strong>Nodemailer</strong><br>
+</p>
+
 
 
 
