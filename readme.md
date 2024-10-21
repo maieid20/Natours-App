@@ -42,12 +42,32 @@
 </h2></p>
 <p>Use the following steps to establish your local setup for the Natours app:
 </p>
-> 
-> ```bash
-> git clone https://github.com/maieid20/natours.git
-> cd natours
-> ```
->
+## Setting Up Your Local Environment
+
+Follow these steps to set up your local environment for the Natours app:
+
+```plaintext
+Clone the Repository
+---------------------
+git clone https://github.com/maieid20/natours.git
+cd natours
+
+Install Dependencies
+---------------------
+npm install
+
+Configure Environment Variables
+-------------------------------
+Create a .env file in the root directory and add the necessary environment variables. You can use the .env.example file as a reference.
+
+Start the Application
+----------------------
+npm start
+
+Access the App
+---------------
+Open your web browser and go to http://localhost:3000 to view the Natours app.
+
 
 
 
