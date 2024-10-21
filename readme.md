@@ -42,7 +42,6 @@
 </h2></p>
 <p>Use the following steps to establish your local setup for the Natours app:
 </p>
-## Setting Up Your Local Environment
 
 Follow these steps to set up your local environment for the Natours app:
 
