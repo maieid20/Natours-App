@@ -38,6 +38,13 @@
 <p><strong>•</strong> Booking confirmation and invoice sent via email.</p>
 <p><strong>•</strong> Upload profile pictures.</p>
 <p><strong>•</strong> Error handling and logging.</p>
+<p><h2>Preparing Your Local Environment
+</h2></p>
+<p>Use the following steps to establish your local setup for the Natours app:
+</p>
+```bash
+git clone https://github.com/maieid20/natours.git
+cd natours
 
 
 
