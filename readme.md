@@ -32,6 +32,16 @@
 <p><strong>•</strong> Detailed information about each tour, including difficulty and price.</p>
 <p><strong>•</strong> Responsive maps that provide an optimal viewing experience across all devices, making it easy to explore tour locations.</p>
 <p><strong>•</strong> View tour reviews and ratings by fellow travelers.</p>
+
+## Setting Up Your Local Environment
+
+Follow these steps to set up your local environment for the Natours app:
+
+**Clone the Repository**
+```plaintext
+git clone https://github.com/maieid20/natours.git
+cd natours
+
 <p><strong>•</strong> Reset your password.</p>
 <p><strong>•</strong> Update your password and profile information.</p>
 <p><strong>•</strong> Stripe payment integration for booking.</p>
